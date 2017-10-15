@@ -1,16 +1,40 @@
 body {
     margin: 0;
     padding: 0;
-    background: #FFFFFF;
+    
     font: 16px arial,sans-serif;
     position: fixed;
     height: 100%;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: #15BE31;
   
     
   } 
+  .button {
+    background-color:  #000000; /* bLACK */
+    position: absolute; 
+    
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+    float:center;
+    border: 1px solid rgb(221, 245, 195);
+}
+  
+    img {
+      display: block;
+      margin-left: 100px;
+      margin-right: 100px;
+      opacity: 1;
+      filter: alpha(opacity=50); /* For IE8 and earlier */
+      image-rendering: pixelated;
+    }
+
   fieldset {
       margin-left: 100px;
       margin-right: 100px;
