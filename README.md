@@ -1,2 +1,2 @@
 # Yummy_Recipes
-This repository will help me do my first Challenge at the Bootcamp
+Yummy Recipes is a simple app that helps a user create an account and log in to view recipe categories.
